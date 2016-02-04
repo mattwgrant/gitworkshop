@@ -1,0 +1,36 @@
+.wrapper {
+  margin: 0 auto;
+  width: 900px;
+  /*styling set*/
+}
+
+.fixed-nav-bar {
+  position: fixed;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+article {
+  width: 440px;
+  margin-right: 5px;
+}
+
+
+#style {
+  float: right;
+}
+
+.other {
+  display: inline-block;
+}
+
+body {
+  background-color: silver;
+}
+
+
+
+
